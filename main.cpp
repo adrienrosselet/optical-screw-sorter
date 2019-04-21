@@ -5,9 +5,9 @@
 //  Created by Adrien Rosselet on 26.10.18.
 //  Copyright © 2018 Adrien Rosselet. All rights reserved.
 //
-#include <opencv2/core.hpp>
-#include <opencv2/highgui.hpp>
-#include <opencv2/videoio.hpp>
+#include <opencv2/core/core.hpp>
+#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/videoio/videoio.hpp>
 #include <opencv2/imgproc.hpp>
 #include <opencv2/opencv.hpp>
 #include <iostream>
